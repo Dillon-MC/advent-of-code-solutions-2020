@@ -1,0 +1,17 @@
+{
+  "name": "aoc-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day1/Day1.js",
+  "scripts": {
+    "start": "nodemon Day1/Day1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
