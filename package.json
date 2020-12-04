@@ -2,9 +2,9 @@
   "name": "aoc-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "Day2/Day2.js",
+  "main": "Day4/Day4.js",
   "scripts": {
-    "start": "nodemon Day2/Day2.js"
+    "start": "nodemon Day4/Day4.js"
   },
   "author": "",
   "license": "ISC",
